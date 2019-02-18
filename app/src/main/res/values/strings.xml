@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShopServer</string>
+    <string name="signInEmailText">Enter your Email</string>
+    <string name="signInPasswordText">Password</string>
+    <string name="signInButtonText">Login</string>
+    <string name="signInButtonRegister">Register</string>
+    <string name="userNameEditText">User Name</string>
+    <string name="userEmailText">Email</string>
+    <string name="userNameText">Name</string>
+    <string name="userEmailEditText">Email</string>
+    <string name="userAddressText">Address</string>
+    <string name="userAddressEditText">Address</string>
+    <string name="userUpdateButtonText">Update User</string>
+    <string name="userAddressHint">Address</string>
+    <string name="registerEmailEditText">Email</string>
+    <string name="registerPasswordEditText">Password</string>
+    <string name="registerButtonText">Register</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="bottom_action_menu">Menu</string>
+    <string name="bottom_action_order">Order</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="categoryNameHint">Category Name</string>
+    <string name="categoryItemHint">Item Name</string>
+    <string name="listCategoryText">Category</string>
+</resources>

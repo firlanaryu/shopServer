@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669772103328",
+    "firebase_url": "https://shopserver-f4310.firebaseio.com",
+    "project_id": "shopserver-f4310",
+    "storage_bucket": "shopserver-f4310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669772103328:android:ba993cb8732d3c0e",
+        "android_client_info": {
+          "package_name": "com.creaginetech.shopserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669772103328-ug9ubuo7oke8d5o7lsv6jivaq8ceplp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creaginetech.shopserver",
+            "certificate_hash": "5b42616c15d6bd25ee215c741eb5def239c5837a"
+          }
+        },
+        {
+          "client_id": "669772103328-rk3jr0f31pmi32ls97lntib5gc04fnuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxUPS89zCx-jorq88K4E8px9053vaXq8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669772103328-rk3jr0f31pmi32ls97lntib5gc04fnuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
