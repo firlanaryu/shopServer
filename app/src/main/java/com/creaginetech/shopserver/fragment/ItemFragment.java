@@ -1,8 +1,6 @@
 package com.creaginetech.shopserver.fragment;
 
 
-import android.app.AlertDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -15,7 +13,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.creaginetech.shopserver.CategoryItemActivity;
+import com.creaginetech.shopserver.AddCategoryItemActivity;
 import com.creaginetech.shopserver.ListItemActivity;
 import com.creaginetech.shopserver.R;
 import com.creaginetech.shopserver.common.Common;
@@ -68,7 +66,7 @@ public class ItemFragment extends Fragment {
             @Override
             public void onClick(View view) {
 
-                startActivity(new Intent(getActivity(), CategoryItemActivity.class));
+                startActivity(new Intent(getActivity(), AddCategoryItemActivity.class));
             }
         });
 
